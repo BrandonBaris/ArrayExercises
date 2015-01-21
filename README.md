@@ -10,16 +10,42 @@ Build arrays and insert data from plain english specifications.
 Once you are done, commit and push your work.  
 Then checkout the branch of the next level.  
 
+<<<<<<< HEAD
 `git checkout level_4`
+=======
+<<<<<<< HEAD
+`git checkout level_3`
+>>>>>>> level_2
 
 _notice your `build_arrays.js` file no longer has your original arrays from `level_3` branch_  
 merge your changes from `level_3`  
 
 `git merge level_3`  
+<<<<<<< HEAD
+=======
+=======
+`git checkout level_2`
+
+_notice your `build_arrays.js` file no longer has your original arrays from `master` branch_  
+merge your changes from `master`  
+
+`git merge master`  
+>>>>>>> master
+>>>>>>> level_2
 _a commit message may appear, save and quit the commit message editor_  
 
 review your `build_arrays.js` file again, did your changes merge in properly?  
 if it did, continue the assignment by following the comments.  
 once you are done, commit and push this branch.  
+<<<<<<< HEAD
 then, merge this branch into your `master` branch. then push that branch.  
 this completes the exercise.
+=======
+then, continue on to the next level  
+
+<<<<<<< HEAD
+`git checkout level_4`
+=======
+`git checkout level_3` and so on.
+>>>>>>> master
+>>>>>>> level_2
